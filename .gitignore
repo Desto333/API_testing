@@ -1,1 +1,3 @@
 /node_modules/
+/test/booker.test.js
+/utils/functions.js
